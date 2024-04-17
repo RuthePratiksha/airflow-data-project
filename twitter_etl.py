@@ -40,4 +40,4 @@ def run_twitter_etl():
         list.append(refined_tweet)
 
     df = pd.DataFrame(list)
-    df.to_csv('s3://sahas-airflow-one/refined_tweets.csv')
+    df.to_csv('s3://myprojectairflowbucketnew/refined_tweets.csv')
