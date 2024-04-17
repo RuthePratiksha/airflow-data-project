@@ -6,10 +6,10 @@ import s3fs
 
 def run_twitter_etl():
 
-    access_key = "aCWoBptvJWGx0hHS8u5QjCSD5" 
-    access_secret = "NlT63YyEtCBGhG0arxUCVFzixdsluv3RLIF7rVNXFq5aXSXaOL" 
-    consumer_key = "1773243613159555072-UQdOqQphwriSTk8nanwkWgJCoagHyx"
-    consumer_secret = "EYecKmXZTiLx4oiNOBodUWTIAgCP2zZ1qOOjHh3ejlIuI"
+    access_key = "bhf3UsmuDN9l0gifsd7IOyhIp" 
+    access_secret = "e87gwP3uPV0CoCuGyv9m9nYECkGtez5UktmHecBz6PiHkFJm3n" 
+    consumer_key = "1773243613159555072-ZdTIL7jkTcnCjd58Spuy78c6FzNIrR"
+    consumer_secret = "E1Ml3tiP8dnphYYyKxDW34Y7PIhHWcMGknDRRoydDh2AM"
 
 
     # Twitter authentication
